@@ -2,3 +2,5 @@
 /prueba-tecnica-sysman-frontend/
 
 .vscode/
+
+.env
